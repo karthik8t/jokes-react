@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jokes-react/static/css/main.3e789fe1.chunk.css",
+    "main.js": "/jokes-react/static/js/main.9b2f6328.chunk.js",
+    "main.js.map": "/jokes-react/static/js/main.9b2f6328.chunk.js.map",
+    "runtime-main.js": "/jokes-react/static/js/runtime-main.b99dcc40.js",
+    "runtime-main.js.map": "/jokes-react/static/js/runtime-main.b99dcc40.js.map",
+    "static/js/2.483f6a63.chunk.js": "/jokes-react/static/js/2.483f6a63.chunk.js",
+    "static/js/2.483f6a63.chunk.js.map": "/jokes-react/static/js/2.483f6a63.chunk.js.map",
+    "static/js/3.e3a53e94.chunk.js": "/jokes-react/static/js/3.e3a53e94.chunk.js",
+    "static/js/3.e3a53e94.chunk.js.map": "/jokes-react/static/js/3.e3a53e94.chunk.js.map",
+    "index.html": "/jokes-react/index.html",
+    "static/css/main.3e789fe1.chunk.css.map": "/jokes-react/static/css/main.3e789fe1.chunk.css.map",
+    "static/js/2.483f6a63.chunk.js.LICENSE.txt": "/jokes-react/static/js/2.483f6a63.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b99dcc40.js",
+    "static/js/2.483f6a63.chunk.js",
+    "static/css/main.3e789fe1.chunk.css",
+    "static/js/main.9b2f6328.chunk.js"
+  ]
+}
